@@ -4,7 +4,7 @@ OBJECTIVE: The objective of the project is to create a broadcasting chat server 
 
 INTRODUCTION TO BROADCASTING CHAT SERVER:
 Chat server has two types of broadcasting. One is Public i.e. the message is broadcast to all connected users and another one is Private that means the broadcasting will be limited between two clients. Through the help of this project, the users can easily communicate and also interact with each other.
-![Chat Server]()
+![Chat Server](chat_image/Broadcasting-Chat-Server.png)
  
 The chat server created in the project has a client and a server. There can be communication done between the two of these. The project is created using java language only. It was created on Netbeans. The project has two Frames -one for the client and one for the server.
 The contents of the frame are as follows:
@@ -24,9 +24,10 @@ The text field was made static so that is can be accessed by the main method as 
 The text field was made static so that is can be accessed by the main method as main method is also static. The names of the attributes added to the JFrame are changed for self-convenience.
 After these JFrames are created we try to run these. Below are the output after running both the JFames.
 1. Below is the server frame given.
+![Server_frame](chat_image/server.PNG)
  
 2. Below is the client frame given.
-
+![Client_frame](chat_image/client.PNG)
 
 Tried sending message from server frame to client and vice versa but could not because the coding is left.
 Step-3: Coding of Frame – Open to the JFrame and it has a option of coding in which half of the coding is already done due to drag and drop. Some additional coding that needs to be done is as follows;
@@ -104,7 +105,9 @@ Step:5 – Run the frame: Run both the frames by clicking on the right and press
 The project is completed now you can send message from server to client and viceversa.
 OUTPUT:
 Your conversation will look like this:
- 
+ ![](chat_image/Capture.PNG)
+ DIAGRAM:
+ ![](chat_image/Untitled.png)
 
 
 
