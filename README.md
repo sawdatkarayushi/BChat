@@ -108,6 +108,8 @@ Your conversation will look like this:
  ![](chat_image/Capture.PNG)
  DIAGRAM:
  ![](chat_image/Untitled.png)
+ Activity:
+ ![](chat_image/activity.png)
 
 
 
